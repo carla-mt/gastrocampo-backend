@@ -1,6 +1,8 @@
 # Project Name
 
 ## Instructions how to start
+lasncfjhbrgoidhkfmgñhl´-jk
+`´jñtlrkdj
 
 create `.env` file like the example `.env.sample`
 
